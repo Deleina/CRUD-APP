@@ -1,4 +1,4 @@
-# CRUD application with Vite and JavaScript :rocket:
+## CRUD application with Vite and JavaScript :rocket:
 
 ***
 
